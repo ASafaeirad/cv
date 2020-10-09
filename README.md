@@ -8,7 +8,7 @@
 
 **Software Engineer** | **Software Architect** | **Web Developer** | **UI/UX Designer** | **INTP**
 
-+13 years of programming experience, and +5 years of professional experience.
++13 years of programming experience, and +5 years of professional experience working with medium to large databases. Managed technical project as technical lead.
 
 > I enjoy spending time thinking about how things work and coming up with solutions to problems.
 
@@ -19,11 +19,12 @@
 ### Software Architect | Senior Fullstack Developer | UI/UX Designer
 SFGCO | _Jan 2020 - Now_
 
-An enterprise B2B IOT project with a highly-motivated and skilled team of software, mechanics, and electronics engineers.
+Smartsept is an enterprise B2B IoT project; I worked with a highly-motivated and skilled team of software, mechanics, and electronics engineers.
 
 <details>
   <summary><b>Key Accomplishments</b></summary>
 
+* Performed as a technical lead, designing and defining processes for other developers as well as doing code reviews and production releases.
 * Designed and Implemented a real-time monitoring/administration web application.
 * Achieved end-to-end type-safety with `typescript`, `graphql`, `typegen`, and `prisma`.
 * Created a fully dockerized development and production environment.
@@ -35,29 +36,29 @@ An enterprise B2B IOT project with a highly-motivated and skilled team of softwa
 * Designed the smartsept design system and logo.
 </details>
 
-**→ [Checkout Smartsept Materials](./projects/smartsept.md)**
+**[Checkout Smartsept Materials](./projects/smartsept.md)**
 
 ### Founder of FullstacksAcademy™
 Fullstacks | _Mar 2016 - Now_
 
 Fullstacks is an open-source community and interactive platform for learning how to code.
 
-**→ [Checkout Fullstacks Materials](./projects/fullstacks-app.md)**
+**[Checkout Fullstacks Materials](./projects/fullstacks-app.md)**
 
 
 ### CEO | Fullstack Developer
 NorthcampStudio | _Mar 2018 - Dec 2019_
 
-It was my first experience to lunch a startup. I learned a lot about team management, marketing, and technologies during that years.
+It was my first experience to lunch a startup. I learned a lot about team management, marketing, and technologies during those years.
 
-**→ [Checkout Workshop Materials](./projects/fullstacks-workshop.md)**
+**[Checkout Workshop Materials](./projects/fullstacks-workshop.md)**
 
-### CTO | Lead Frontend Developer | UI/UX Designer
+### Lead Frontend Developer | UI/UX Designer
 Dropp Technologies | _Apr 2017 - Apr 2018_
 
-An enterprise vehicle hireing and food delivery mobile and web application project. One year of experience.
+An enterprise vehicle hiring and food delivery mobile and web application project. One year of experience.
 
-**→ [Checkout Dropp Materials](./projects/dropp.md)**
+**[Checkout Dropp Materials](./projects/dropp.md)**
 
 ---
 
@@ -83,9 +84,14 @@ An enterprise vehicle hireing and food delivery mobile and web application proje
 * **Adaptability**
 * **Abstract thinking**
 
-**Tech Stack**:
+**Hard Skills**:
+* **Software engineeing standards**: Quality attributes, programming paradigms, design principles, and design patterns
+* **Software testing**: Unit/Integration/Acceptance/E2E testing and TDD development.
+* **Development methodologies and frameworks**: Agile, Scrum, Kanban, RUP
+
+**Current Tech Stack**:
 * **OS**: GNU/Linux
-* **Languages**: JS/TS, C++, C#
+* **Languages**: JS/TS
 * **Tools**: Git, VIM, GNU Core Utils, Yarn/NPM
 * **UI Design**: Figma, Adobe Photoshop, Adobe Illustrator
 * **Frontend**: Web Platform, React, Apollo, Webpack, Babel, Gulp, Apollo Client, Jest

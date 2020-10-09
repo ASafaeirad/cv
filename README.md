@@ -94,6 +94,23 @@ An enterprise vehicle hiring and food delivery mobile and web application projec
 
 ## Core Skills:
 
+**Knowledge**:
+* Software engineering standards
+* Programming paradigms like Procedural, Object-oriented, and Functional
+* Design principles and design patterns
+* Software testing like Unit/Integration/Acceptance/E2E testing and TDD development.
+* Development methodologies and frameworks of Agile, Scrum, Kanban, RUP
+* User Interface and User Expreirence principles
+
+**Current Tech Stack**:
+* **Languages**: JS/TS
+* **Tools**: Git, VIM, GNU Core Utils, Yarn/NPM
+* **UI Design**: Figma, Adobe Photoshop, Adobe Illustrator
+* **Frontend**: Web Platform, Gatsby, React, Apollo, Webpack, Babel, Gulp, Apollo Client, Jest
+* **Backend**: Node.JS, Express, Nexus, Prisma, Graphql, Apollo Server, PostgreSQL, MongoDB, Redis, Jest
+* **DevOps**: Docker, Docker Compose, Nginx, Github Actions
+* **OS**: GNU/Linux
+
 **Soft Skills**:
 * Fast Learning
 * Creativity
@@ -102,22 +119,6 @@ An enterprise vehicle hiring and food delivery mobile and web application projec
 * Adaptability
 * Abstract thinking
 
-**Knowledge**:
-* Software engineering standards
-* Programming paradigms like Procedural, Object-oriented, and Functional
-* Design principles and design patterns
-* Software testing like Unit/Integration/Acceptance/E2E testing and TDD development.
-* Development methodologies and frameworks of Agile, Scrum, Kanban, RUP
-
-**Current Tech Stack**:
-* **OS**: GNU/Linux
-* **Languages**: JS/TS
-* **Tools**: Git, VIM, GNU Core Utils, Yarn/NPM
-* **UI Design**: Figma, Adobe Photoshop, Adobe Illustrator
-* **Frontend**: Web Platform, Gatsby, React, Apollo, Webpack, Babel, Gulp, Apollo Client, Jest
-* **Backend**: Node.JS, Express, Nexus, Prisma, Graphql, Apollo Server, PostgreSQL, MongoDB, Redis, Jest
-* **DevOps**: Docker, Docker Compose, Nginx, Github Actions
-
 ## Languages:
+* English (Limited working proficiency)
 * Persian (Native)
-* English (Upper Intermediate)

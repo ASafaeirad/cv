@@ -1,10 +1,11 @@
-← [Back to Resume](../README.md#jan-2020---now)
+← [Back to Resume](../README.md#software-engineer--senior-fullstack-developer--uiux-designer)
 <!-- omit in toc -->
 # Smartsept App
 
 <!-- omit in toc -->
 ## Contents:
 - [About](#about)
+- [Key Accomplishments](#key-accomplishments)
 - [Stack](#stack)
 - [UI/UX Design](#uiux-design)
 - [Implementation](#implementation)
@@ -18,7 +19,21 @@
 
 IoT based Hand Hygiene Compliance Monitoring Solution.
 
-An enterprise B2B IOT hand hygiene compliance monitoring project with a highly-motivated and skilled team of software, mechanics, and electronics engineers.
+Smartsept is an enterprise B2B IoT project; I worked with a highly-motivated and skilled team of software, mechanics, and electronics engineers.
+
+## Key Accomplishments
+
+* Performed as a technical lead, designing and defining processes for other developers, also code reviews and production releases.
+* Designed and Implemented a real-time monitoring/administration web application.
+* Achieved end-to-end type-safety with `typescript`, `graphql`, `typegen`, and `prisma`.
+* Created a fully dockerized development and production environment.
+* Successfully installed a Linux server and virtualized environments using `docker-compose` and cloud infrastructure.
+* Defined agile git branch strategy and workflow.
+* Planed epics and user-stories for agile development.
+* Implemented Robert C. Martin's clean architecture to separate business logic and infrastructure on the server-side.
+* Achieve +120% memory efficiency on low-end devices by changing the serializing format.
+* Ensured data/event transform reliability between low-end devices and cloud services on connection failure by introducing a multi-queue algorithm.
+* Designed the smartsept design system, illustrations, and logo.
 
 ## Stack
 ↑ [Back to top](#smartsept-app)
@@ -81,4 +96,4 @@ An enterprise B2B IOT hand hygiene compliance monitoring project with a highly-m
 
 ---
 
-← [Back to Resume](../README.md#jan-2020---now)
+← [Back to Resume](../README.md#software-engineer--senior-fullstack-developer--uiux-designer)

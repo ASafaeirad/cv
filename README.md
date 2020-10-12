@@ -73,7 +73,7 @@ An enterprise vehicle hiring and food delivery mobile and web application projec
 * Provide superior mentoring to frontend developers.
 * Performed as a technical lead for the frontend team, code reviews, and production releases.
 * Designed and developed the Dropp admin panel and landing page by Angular framework.
-* Designed the fullstacks Mobile and application UI, illustrations.
+* Designed the dropp Mobile and application UI, illustrations.
 </details>
 
 **[Checkout Dropp Materials](./projects/dropp.md)**
@@ -106,7 +106,7 @@ An enterprise vehicle hiring and food delivery mobile and web application projec
 * **Languages**: JS/TS
 * **Tools**: Git, VIM, GNU Core Utils, Yarn/NPM
 * **UI Design**: Figma, Adobe Photoshop, Adobe Illustrator
-* **Frontend**: Web Platform, Gatsby, React, Apollo, Webpack, Babel, Gulp, Apollo Client, Jest
+* **Frontend**: Web Platform, Gatsby, React, Apollo, Webpack, Babel, Gulp, Apollo Client, Jest, Storybook
 * **Backend**: Node.JS, Express, Nexus, Prisma, Graphql, Apollo Server, PostgreSQL, MongoDB, Redis, Jest
 * **DevOps**: Docker, Docker Compose, Nginx, Github Actions
 * **OS**: GNU/Linux

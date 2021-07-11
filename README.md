@@ -2,7 +2,7 @@
 # Alireza Safaeirad
 * FrontendMonster@gmail.com
 * [Github](https://github.com/frontendmonster)
-* [Linkedin](https://linkedin.com/in/alireza-safaierad-388921122/)
+* [Linkedin](https://www.linkedin.com/in/alireza-safaierad)
 
 ---
 

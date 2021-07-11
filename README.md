@@ -100,7 +100,7 @@ An enterprise vehicle hiring and food delivery mobile and web application projec
 * Design principles and design patterns
 * Software testing like Unit/Integration/Acceptance/E2E testing and TDD development.
 * Development methodologies and frameworks of Agile, Scrum, Kanban, RUP
-* User Interface and User Expreirence principles
+* User Interface and User Experience principles
 
 **Current Tech Stack**:
 * **Languages**: JS/TS

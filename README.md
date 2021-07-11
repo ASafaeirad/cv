@@ -16,8 +16,25 @@
 
 ## Professional Experience
 
+### Senior Frontend Engineer
+EstateGuru | _Apr 2021 - Now_
+
+EstateGuru is an enterprise-scale crowdfunding investment platform; I'm a senior react developer working on the next version of the EstateGuru frontend app.
+
+<details>
+  <summary><b>Key Accomplishments</b></summary>
+
+* Performed source code migration to [https://www.typescriptlang.org/play](Typescript) language for type-safety.
+* Integrated [https://www.veriff.com/](Veriff) for automatic online verification.
+* Integrated [https://onfido.com/](Onfido) for real identity verification.
+* Integrated [https://onfido.com/](Onfido) for real identity verification.
+* Implemented multiple Authentication flow (local, Google (Auth code flow), Facebook (Manual flow), MobileID, SmartID).
+* Integrated [https://nordigen.com/](Nordigen) banking platform.
+* Created UI review flow with [https://storybook.js.org/](Storybook) and [https://www.chromatic.com/](Chromatic).
+</details>
+
 ### Software Engineer | Senior Fullstack Developer | UI/UX Designer
-SFGCO | _Jan 2020 - Now_
+SFGCO | _Jan 2020 - Apr 2021_
 
 Smartsept is an enterprise B2B IoT project; I worked with a highly-motivated and skilled team of software, mechanics, and electronics engineers.
 

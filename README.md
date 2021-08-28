@@ -6,9 +6,9 @@
 
 ---
 
-**Software Engineer** | **Software Architect** | **Web Developer** | **UI/UX Designer** | **INTP**
+**Senior Frontend Engineer** | **Software Architect** | **INTP**
 
-+13 years of programming experience, and +5 years of professional experience working with medium to large databases, managed technical project as technical lead.
+Innovative Front End Engineer with +5 years of professional experience, focused on modular and scalable design and development. Proficient in Web technologies and modern JS/TS echosystem. Passionate about learning, teaching, and, mentoring and code review.
 
 > I enjoy spending time thinking about how things work and coming up with solutions to problems.
 
@@ -17,7 +17,8 @@
 ## Professional Experience
 
 ### Senior Frontend Engineer
-EstateGuru | _Apr 2021 - Now_
+EstateGuru | _Apr 2021 - Now_\
+Tech Stack: `Typescript` `React` `Cypress` `Storybook` `Chromatic` `Material-UI` `React-Query` `Docker` `Webpack` `Babel`
 
 EstateGuru is an enterprise-scale crowdfunding investment platform; I'm a senior react developer working on the next version of the EstateGuru frontend app.
 
@@ -25,16 +26,18 @@ EstateGuru is an enterprise-scale crowdfunding investment platform; I'm a senior
   <summary><b>Key Accomplishments</b></summary>
 
 * Performed source code migration to [https://www.typescriptlang.org/play](Typescript) language for type-safety.
+* Created UI review flow with [https://storybook.js.org/](Storybook) and [https://www.chromatic.com/](Chromatic).
 * Integrated [https://www.veriff.com/](Veriff) for automatic online verification.
 * Integrated [https://onfido.com/](Onfido) for real identity verification.
 * Integrated [https://onfido.com/](Onfido) for real identity verification.
-* Implemented multiple Authentication flow (local, Google (Auth code flow), Facebook (Manual flow), MobileID, SmartID).
+* Implemented multiple Authentication flow (local, Google Auth code flow, Facebook Manual flow, MobileID, SmartID).
 * Integrated [https://nordigen.com/](Nordigen) banking platform.
-* Created UI review flow with [https://storybook.js.org/](Storybook) and [https://www.chromatic.com/](Chromatic).
 </details>
 
-### Software Engineer | Senior Fullstack Developer | UI/UX Designer
-SFGCO | _Jan 2020 - Apr 2021_
+### Senior Fullstack Engineer
+SFGCO | _Jan 2020 - Apr 2021_\
+Frontend Stack: `Typescript` `React` `Apollo Client` `Theme-UI` `Docker` `Webpack` `Babel` \
+Backend Stack: `Typescript` `NodeJS` `Apollo Server` `PostgreSQL` `Prisma` `Nexus` 
 
 Smartsept is an enterprise B2B IoT project; I worked with a highly-motivated and skilled team of software, mechanics, and electronics engineers.
 
@@ -77,11 +80,11 @@ Fullstacks is an open-source community and interactive platform for learning how
 
 **[Checkout Fullstacks Materials](./projects/fullstacks-app.md)**
 
-### Lead Frontend Developer | UI/UX Designer
-Dropp Technologies | _Apr 2017 - Apr 2018_
+### Lead Frontend Developer
+Dropp Technologies | _Apr 2017 - Apr 2018_ \
+Tech Stack: `Typescript` `Angular` `Gulp`
 
 An enterprise vehicle hiring and food delivery mobile and web application project. One year of experience.
-
 
 <details>
   <summary><b>Key Accomplishments</b></summary>
@@ -113,17 +116,16 @@ An enterprise vehicle hiring and food delivery mobile and web application projec
 
 **Knowledge**:
 * Software engineering standards
-* Programming paradigms like Procedural, Object-oriented, and Functional
+* Programming paradigms
 * Design principles and design patterns
-* Software testing like Unit/Integration/Acceptance/E2E testing and TDD development.
-* Development methodologies and frameworks of Agile, Scrum, Kanban, RUP
+* Software testing and TDD
+* Development methodologies and frameworks
 * User Interface and User Experience principles
 
 **Current Tech Stack**:
 * **Languages**: JS/TS
 * **Tools**: Git, VIM, GNU Core Utils, Yarn/NPM
-* **UI Design**: Figma, Adobe Photoshop, Adobe Illustrator
-* **Frontend**: Web Platform, Gatsby, React, Apollo, Webpack, Babel, Gulp, Apollo Client, Jest, Storybook
+* **Frontend**: Web Platform, Gatsby, React, Apollo, Webpack, Babel, Gulp, Apollo Client, Jest, Storybook, Chromatic
 * **Backend**: Node.JS, Express, Nexus, Prisma, Graphql, Apollo Server, PostgreSQL, MongoDB, Redis, Jest
 * **DevOps**: Docker, Docker Compose, Nginx, Github Actions
 * **OS**: GNU/Linux

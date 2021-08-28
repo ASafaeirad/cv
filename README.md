@@ -139,5 +139,5 @@ An enterprise vehicle hiring and food delivery mobile and web application projec
 * Abstract thinking
 
 ## Languages:
-* English (Limited working proficiency)
+* English (Professional Working Proficiency)
 * Persian (Native)

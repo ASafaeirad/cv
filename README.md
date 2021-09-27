@@ -8,7 +8,7 @@
 
 **Senior Frontend Engineer** | **Software Architect** | **INTP**
 
-Innovative Front End Engineer with +5 years of professional experience, focused on modular and scalable design and development. Proficient in Web technologies and modern JS/TS echosystem. Passionate about learning, teaching, and, mentoring and code review.
+Innovative Front End Engineer with +5 years of professional experience, focused on modular and scalable design and development. Proficient in Web technologies and modern JS/TS ecosystem. Passionate about learning, teaching, and, mentoring and code review.
 
 > I enjoy spending time thinking about how things work and coming up with solutions to problems.
 

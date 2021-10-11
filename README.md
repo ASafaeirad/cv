@@ -27,10 +27,9 @@ EstateGuru is an enterprise-scale crowdfunding investment platform; I'm a senior
 
 * Performed source code migration to [Typescript](https://www.typescriptlang.org/play) language for type-safety.
 * Created UI review flow with [Storybook](https://storybook.js.org/) and [Chromatic](https://www.chromatic.com/).
-* Integrated [Veriff](https://www.veriff.com/) for automatic online verification.
-* Integrated [Onfido](https://onfido.com/) for real identity verification.
-* Integrated [Onfido](https://onfido.com/) for real identity verification.
+* Integrated [Veriff](https://www.veriff.com/) and [Onfido](https://onfido.com/) for real identity verification.
 * Implemented multiple Authentication flow (local, Google Auth code flow, Facebook Manual flow, MobileID, SmartID).
+* Scale project by migrating from [CRA](https://create-react-app.dev/) to [Nx workspace](http://nx.dev/). 
 * Integrated [Nordigen](https://nordigen.com/) banking platform.
 </details>
 

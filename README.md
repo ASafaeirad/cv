@@ -34,7 +34,7 @@ EstateGuru is an enterprise-scale crowdfunding investment platform; I'm a senior
 </details>
 
 ### Senior Fullstack Engineer
-SFGCO | _Jan 2020 - Apr 2021_\
+SFGCO | `1 Year` | _Jan 2020 - Apr 2021_\
 Frontend Stack: `Typescript` `React` `Apollo Client` `Theme-UI` `Docker` `Webpack` `Babel` \
 Backend Stack: `Typescript` `NodeJS` `Apollo Server` `PostgreSQL` `Prisma` `Nexus` 
 
@@ -58,8 +58,8 @@ Smartsept is an enterprise B2B IoT project; I worked with a highly-motivated and
 
 **[Checkout Smartsept Materials](./projects/smartsept.md)**
 
-### Founder of Fullstacks
-Fullstacks | _Mar 2016 - Now_
+### Founder of FullstacksJS
+FullstacksJS | `4 Year` | _Mar 2016 - 2020_ 
 
 Fullstacks is an open-source community and interactive platform for learning how to code.
 
@@ -80,7 +80,7 @@ Fullstacks is an open-source community and interactive platform for learning how
 **[Checkout Fullstacks Materials](./projects/fullstacks-app.md)**
 
 ### Frontend Developer
-Dropp Technologies | _Apr 2017 - Apr 2018_ \
+Dropp Technologies | `1 Year` | _Apr 2017 - Apr 2018_ \
 Tech Stack: `Typescript` `Angular` `Gulp`
 
 An enterprise vehicle hiring and food delivery mobile and web application project. One year of experience.

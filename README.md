@@ -79,7 +79,7 @@ Fullstacks is an open-source community and interactive platform for learning how
 
 **[Checkout Fullstacks Materials](./projects/fullstacks-app.md)**
 
-### Lead Frontend Developer
+### Frontend Developer
 Dropp Technologies | _Apr 2017 - Apr 2018_ \
 Tech Stack: `Typescript` `Angular` `Gulp`
 

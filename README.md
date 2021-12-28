@@ -34,7 +34,7 @@ EstateGuru is an enterprise-scale crowdfunding investment platform; I'm a senior
 </details>
 
 ### Senior Fullstack Engineer
-SFGCO | `1 Year` | _Jan 2020 - Apr 2021_\
+SFGCO | `15 Months` | _Jan 2020 - Apr 2021_\
 Frontend Stack: `Typescript` `React` `Apollo Client` `Theme-UI` `Docker` `Webpack` `Babel` \
 Backend Stack: `Typescript` `NodeJS` `Apollo Server` `PostgreSQL` `Prisma` `Nexus` 
 

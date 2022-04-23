@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 # Alireza Safaeirad
-* Front-endMonster@gmail.com
+* alireza.safaierad@gmail.com
 * [Github][github-profile]
 * [Linkedin][linkedin-profile]
 
@@ -123,8 +123,8 @@ At DROPP, I started as a Front-end developer and was promoted to the Front-end t
 * English (Professional Working Proficiency)
 * Persian (Native)
 
-[github-profile]: [https://github.com/frontendmonster]
-[linkedin-profile]: [https://www.linkedin.com/in/alireza-safaierad]
+[github-profile]: [https://github.com/ASafaeirad]
+[linkedin-profile]: [https://www.linkedin.com/in/ASafaeirad]
 [typescript]: [https://typescriptlang.org]
 [react]: [https://reactjs.org]
 [orval]: [https://orval.dev/]

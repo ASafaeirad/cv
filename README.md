@@ -9,7 +9,7 @@
 
 **Senior Front-end Engineer** | **Software Architect** | **INTP**
 
-A Software engineer with +13 years of professional experience including +7 years working as a Front-end engineer. Proficient  in React, Typescript, and modern web ecosystems. In my prior position, I established and led a Front-end team responsible for migrating legacy source code to a decoupled and maintainable codebase.
+A Software engineer with +13 years of professional experience including +7 years working as a Front-end engineer. Proficient  in React, Typescript, and modern web ecosystems.
 
 
 > I enjoy spending time thinking about how things work and coming up with solutions to problems.

@@ -9,7 +9,8 @@
 
 **Senior Front-end Engineer** | **Software Architect** | **INTP**
 
-A Front-end engineer with 7+ years of professional experience designing and developing reusable and scalable web applications. Proficient  in React, Typescript, and modern web ecosystems. In the prior position, I established and led a Front-end team responsible for migrating legacy source code to a decoupled and maintainable codebase.
+A Software engineer with +13 years of professional experience including +7 years working as a Front-end engineer. Proficient  in React, Typescript, and modern web ecosystems. In my prior position, I established and led a Front-end team responsible for migrating legacy source code to a decoupled and maintainable codebase.
+
 
 > I enjoy spending time thinking about how things work and coming up with solutions to problems.
 
@@ -26,6 +27,7 @@ Estateguru is a large-scale enterprise crowdfunding investment platform operatin
 **Key Accomplishments**
 
 -   Planned and implemented a one-year Front-end migration roadmap from a legacy codebase to a React/Typescript by collaborating closely with the CTO, Product Owners, and the business team.
+-   Implemented design-system library for the company by working closely with the design team. 
 -   Supervised and mentored an intern developer into a productive team member throughout a six-month roadmap plan.
 -   Reduced the project development cost by using code generation and AST transform as a solution to autogenerate boilerplate API client codes.
 -   Automated visual regression testing flow and UI review by integrating Storybook, Chromatic, and GitHub Actions.
@@ -104,7 +106,7 @@ At DROPP startup company, I started as a Front-end developer. I was promoted to 
 **Current Tech Stack**:
 * **Languages**: JS/TS
 * **Tools**: Git, VIM, GNU Core Utils, Yarn/NPM/PNPM
-* **Front-end**: Web Platform, Gatsby, React, Apollo, Webpack, Babel, Gulp, Apollo Client, Jest, Storybook, Chromatic, Vite, Vitest, react-testing-library, esbuild
+* **Front-end**: Web Platform, Gatsby, React, Next.JS, Apollo, Webpack, Babel, Gulp, Apollo Client, Jest, Storybook, Chromatic, Vite, Vitest, react-testing-library, esbuild
 * **Back-end**: Node.JS, Express, Nexus, Prisma, Graphql, Apollo Server, PostgreSQL, MongoDB, Redis, Jest
 * **DevOps**: Docker, Docker Compose, Nginx, Github Actions
 * **OS**: GNU/Linux

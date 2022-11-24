@@ -20,7 +20,7 @@ A Software engineer with +13 years of professional experience including +7 years
 
 ### Estateguru — Front-end Team Lead
 _Apr 2021 - Now_\
-Tech Stack: `Typescript` `React` `Cypress` `Storybook` `Chromatic` `Material-UI` `React-Query` `Docker` `Webpack` `Babel`, `Jest`, `react-testing-library`, `Nx`
+Tech Stack: `Typescript` `React` `Cypress` `Storybook` `Chromatic` `Material-UI` `React-Query` `Docker` `Webpack` `Babel` `Jest` `react-testing-library` `Nx`
 
 Estateguru is a large-scale enterprise crowdfunding investment platform operating in 10+ EU countries; as a Front-end team lead, I was responsible for a one-year migration plan from a monolithic application to a decoupled service-oriented version.
 

@@ -2,8 +2,8 @@
 <!-- omit in toc -->
 # Alireza Safaeirad
 * alireza.safaierad@gmail.com
-* [Github][github-profile]
-* [Linkedin][linkedin-profile]
+* [Github](https://github.com/ASafaeirad)
+* [Linkedin](https://www.linkedin.com/in/ASafaeirad)
 
 ---
 
@@ -27,7 +27,7 @@ Estateguru is a large-scale enterprise crowdfunding investment platform operatin
 **Key Accomplishments**
 
 -   Planned and implemented a one-year Front-end migration roadmap from a legacy codebase to a React/Typescript by collaborating closely with the CTO, Product Owners, and the business team.
--   Implemented design-system library for the company by working closely with the design team. 
+-   Implemented design-system library for the company by working closely with the design team.
 -   Supervised and mentored an intern developer into a productive team member throughout a six-month roadmap plan.
 -   Reduced the project development cost by using code generation and AST transform as a solution to autogenerate boilerplate API client codes.
 -   Automated visual regression testing flow and UI review by integrating Storybook, Chromatic, and GitHub Actions.
@@ -115,8 +115,6 @@ At DROPP startup company, I started as a Front-end developer. I was promoted to 
 * English (Professional Working Proficiency)
 * Persian (Native)
 
-[github-profile]: [https://github.com/ASafaeirad]
-[linkedin-profile]: [https://www.linkedin.com/in/ASafaeirad]
 [typescript]: [https://typescriptlang.org]
 [react]: [https://reactjs.org]
 [orval]: [https://orval.dev/]

@@ -114,10 +114,3 @@ At DROPP startup company, I started as a Front-end developer. I was promoted to 
 ## Languages:
 * English (Professional Working Proficiency)
 * Persian (Native)
-
-[typescript]: [https://typescriptlang.org]
-[react]: [https://reactjs.org]
-[orval]: [https://orval.dev/]
-[openapi]: [https://reactjs.org]
-[storybook]: [https://storybook.js.org/]
-[chromatic]: [https://www.chromatic.com/]

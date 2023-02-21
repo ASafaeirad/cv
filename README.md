@@ -22,30 +22,32 @@ A Software engineer with +13 years of professional experience including +7 years
 _Apr 2021 - Now_\
 Tech Stack: `Typescript` `React` `Cypress` `Storybook` `Chromatic` `Material-UI` `React-Query` `Docker` `Webpack` `Babel` `Jest` `react-testing-library` `Nx`
 
-Estateguru is a large-scale enterprise crowdfunding investment platform operating in 10+ EU countries; as a Front-end team lead, I was responsible for a one-year migration plan from a monolithic application to a decoupled service-oriented version.
+As the Front-end Team Lead for Estateguru, a large-scale enterprise crowdlending platform operating in over 10 European Union countries, I was responsible for implementing a comprehensive one-year migration plan from a monolithic application to a decoupled service-oriented architecture
 
 **Key Accomplishments**
 
--   Planned and implemented a one-year Front-end migration roadmap from a legacy codebase to a React/Typescript by collaborating closely with the CTO, Product Owners, and the business team.
--   Implemented design-system library for the company by working closely with the design team.
--   Supervised and mentored an intern developer into a productive team member throughout a six-month roadmap plan.
--   Reduced the project development cost by using code generation and AST transform as a solution to autogenerate boilerplate API client codes.
--   Automated visual regression testing flow and UI review by integrating Storybook, Chromatic, and GitHub Actions.
+- Planned and implemented a one-year Front-end migration roadmap from a legacy codebase to a React/Typescript by collaborating closely with the CTO, Product Owners, and the business team.
+- Developed a reusable design-system library in partnership with the design team, resulting in increased efficiency and consistency across the company.
+- Supervised an intern to become a productive team member through pair-programming sessions and a 6-month roadmap plan.
+- Reduced the project development cost by using code generation and AST transform as a solution to autogenerate boilerplate API client codes.
+- Reduced code confidence recovery cost by integrating many layers of automated testing and CI workflows.
+- Automated visual regression testing flow and UI review by integrating Storybook, Chromatic, and GitHub Actions.
+
 
 ### SFGCO — Senior Fullstack Engineer
 `1 Year and 5 Months` | _Jan 2020 - Apr 2021_\
 Front-end Stack: `Typescript` `React` `Apollo Client` `Theme-UI` `Docker` `Webpack` `Babel` \
 Back-end Stack: `Typescript` `NodeJS` `Apollo Server` `PostgreSQL` `Prisma` `Nexus`
 
-At SFGCO, I was a member of a small but highly motivated and skilled team of software, mechanical, and electronics engineers on a B2B IoT project called SmartSept. I was in charge of leading the software team.
+At SFGCO, I was in charge of leading a highly motivated and skilled software team to develop a real-time monitoring application for an IoT-based hand hygiene compliance solution called SmartSept.
 
 **Key Accomplishments**
 
--   Performed technical lead of a team of 3 full-stack engineers.
--   Achieved E2E type-safety (from the database to the client) using Prisma, Nexus, graphql-typegen, and Typescript.
--   Designed and implemented real-time monitoring and administration platform.
--   Achieved ~300% memory efficiency on low-end devices by changing the serializing format.
--   Improved data transmission reliability between low-end devices and cloud services by 49.5% in case of connection failure by introducing a multi-queue algorithm.
+- Performed as a technical lead of a team of 3 full-stack engineers.
+- Achieved E2E type-safety (from the database to the client) using Prisma, Nexus, graphql-codegen, and Typescript.
+- Designed and implemented real-time monitoring and administration platform.
+- Achieved ~300% memory efficiency on low-end devices by changing the serializing format.
+- Improved data transmission reliability between low-end devices and cloud services in case of connection failure by introducing a multi-queue algorithm.
 
 **[Checkout Smartsept Materials](./projects/smartsept.md)**
 
@@ -56,10 +58,11 @@ FullstacksJS is an interactive programming platform, and an open-source communit
 
 **Key Accomplishments**
 
-* Developed an open-source contribution culture in the community by defining 6 open-source projects and involving 11 new contributors.
-* Organized a weekly online meeting with the aim of knowledge sharing among the community members.
-* Designed and developed a domain-centric software architecture using fp-ts to have a type-safe testable functional domain.
-* Applied TDD practices both in Front-end and Back-end.
+- Improved the code reusability by migrating code from the jQuery codebase to the Angular codebase.
+- Mentored and managed a team of 5 Front-end interns.
+- Organized technical workshops to drive the team towards a more robust toolchain.
+- Designed and developed a domain-centric software architecture using fp-ts to have a type-safe testable functional domain.
+- Applied TDD practices to increase confidence recovery.
 
 **[Checkout Fullstacks Materials](./projects/fullstacks-app.md)**
 

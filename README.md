@@ -95,26 +95,6 @@ At DROPP startup company, I started as a Front-end developer. I was promoted to 
 ### Bachelor of Science, Computer Engineering; Golestan University
 *Minor: Software engineer 2012-2016*
 
----
-
-## Core Skills:
-
-**Knowledge**:
-* Software engineering standards
-* Programming paradigms
-* Design principles and design patterns
-* Software testing and TDD
-* Development methodologies and frameworks
-* User Interface and User Experience principles
-
-**Current Tech Stack**:
-* **Languages**: JS/TS
-* **Tools**: Git, VIM, GNU Core Utils, Yarn/NPM/PNPM
-* **Front-end**: Web Platform, Gatsby, React, Next.JS, Apollo, Webpack, Babel, Gulp, Apollo Client, Jest, Storybook, Chromatic, Vite, Vitest, react-testing-library, esbuild
-* **Back-end**: Node.JS, Express, Nexus, Prisma, Graphql, Apollo Server, PostgreSQL, MongoDB, Redis, Jest
-* **DevOps**: Docker, Docker Compose, Nginx, Github Actions
-* **OS**: GNU/Linux
-
 ## Languages:
 * English (Professional Working Proficiency)
 * Persian (Native)
